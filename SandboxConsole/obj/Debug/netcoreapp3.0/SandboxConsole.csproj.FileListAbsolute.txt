@@ -1,0 +1,15 @@
+C:\devwork\SandboxConsole\SandboxConsole\obj\Debug\netcoreapp3.0\SandboxConsole.csprojAssemblyReference.cache
+C:\devwork\SandboxConsole\SandboxConsole\obj\Debug\netcoreapp3.0\SandboxConsole.AssemblyInfoInputs.cache
+C:\devwork\SandboxConsole\SandboxConsole\obj\Debug\netcoreapp3.0\SandboxConsole.AssemblyInfo.cs
+C:\devwork\SandboxConsole\SandboxConsole\bin\Debug\netcoreapp3.0\SandboxConsole.exe
+C:\devwork\SandboxConsole\SandboxConsole\bin\Debug\netcoreapp3.0\SandboxConsole.deps.json
+C:\devwork\SandboxConsole\SandboxConsole\bin\Debug\netcoreapp3.0\SandboxConsole.runtimeconfig.json
+C:\devwork\SandboxConsole\SandboxConsole\bin\Debug\netcoreapp3.0\SandboxConsole.runtimeconfig.dev.json
+C:\devwork\SandboxConsole\SandboxConsole\bin\Debug\netcoreapp3.0\SandboxConsole.dll
+C:\devwork\SandboxConsole\SandboxConsole\bin\Debug\netcoreapp3.0\SandboxConsole.pdb
+C:\devwork\SandboxConsole\SandboxConsole\bin\Debug\netcoreapp3.0\Unify.Security.dll
+C:\devwork\SandboxConsole\SandboxConsole\bin\Debug\netcoreapp3.0\MathService.dll
+C:\devwork\SandboxConsole\SandboxConsole\bin\Debug\netcoreapp3.0\MathService.pdb
+C:\devwork\SandboxConsole\SandboxConsole\obj\Debug\netcoreapp3.0\SandboxConsole.csproj.CopyComplete
+C:\devwork\SandboxConsole\SandboxConsole\obj\Debug\netcoreapp3.0\SandboxConsole.dll
+C:\devwork\SandboxConsole\SandboxConsole\obj\Debug\netcoreapp3.0\SandboxConsole.pdb

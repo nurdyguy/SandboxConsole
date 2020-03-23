@@ -1,0 +1,7 @@
+C:\devwork\SandboxConsole\MathService\bin\Debug\netstandard2.0\MathService.deps.json
+C:\devwork\SandboxConsole\MathService\bin\Debug\netstandard2.0\MathService.dll
+C:\devwork\SandboxConsole\MathService\bin\Debug\netstandard2.0\MathService.pdb
+C:\devwork\SandboxConsole\MathService\obj\Debug\netstandard2.0\MathService.AssemblyInfoInputs.cache
+C:\devwork\SandboxConsole\MathService\obj\Debug\netstandard2.0\MathService.AssemblyInfo.cs
+C:\devwork\SandboxConsole\MathService\obj\Debug\netstandard2.0\MathService.dll
+C:\devwork\SandboxConsole\MathService\obj\Debug\netstandard2.0\MathService.pdb
